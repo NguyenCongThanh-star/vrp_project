@@ -1,0 +1,32 @@
+============================================================
+VRP BENCHMARK REPORT
+============================================================
+
+Algorithm: GeneticSolver
+Runs: 5
+Best Cost: 2495.21
+Average Cost: 2538.38
+Worst Cost: 2624.44
+Average Time: 0.9419s
+------------------------------------------------------------
+Algorithm: GreedySolver
+Runs: 5
+Best Cost: 2151.52
+Average Cost: 2151.52
+Worst Cost: 2151.52
+Average Time: 0.0034s
+------------------------------------------------------------
+Algorithm: SimulatedAnnealingSolver
+Runs: 5
+Best Cost: 2706.50
+Average Cost: 2813.82
+Worst Cost: 2875.83
+Average Time: 0.0540s
+------------------------------------------------------------
+Algorithm: HybridSolver
+Runs: 5
+Best Cost: 2367.86
+Average Cost: 2450.09
+Worst Cost: 2549.69
+Average Time: 82.5833s
+------------------------------------------------------------

@@ -1,0 +1,26 @@
+[
+    {
+        "solver": "GeneticSolver",
+        "avg_cost": 2538.3804079098795,
+        "best_cost": 2495.205354909506,
+        "avg_time": 0.9419327735900879
+    },
+    {
+        "solver": "GreedySolver",
+        "avg_cost": 2151.520291704236,
+        "best_cost": 2151.520291704236,
+        "avg_time": 0.003390645980834961
+    },
+    {
+        "solver": "SimulatedAnnealingSolver",
+        "avg_cost": 2813.8198925569227,
+        "best_cost": 2706.496909462555,
+        "avg_time": 0.05404596328735352
+    },
+    {
+        "solver": "HybridSolver",
+        "avg_cost": 2450.0859694836377,
+        "best_cost": 2367.86390885807,
+        "avg_time": 82.58327298164367
+    }
+]

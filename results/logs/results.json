@@ -1,0 +1,14 @@
+[
+    {
+        "solver": "GeneticSolver",
+        "avg_cost": 685.9718997845489,
+        "best_cost": 655.0898923584313,
+        "avg_time": 0.07990193367004395
+    },
+    {
+        "solver": "GreedySolver",
+        "avg_cost": 568.4822934944073,
+        "best_cost": 568.4822934944073,
+        "avg_time": 4.038810729980469e-05
+    }
+]
